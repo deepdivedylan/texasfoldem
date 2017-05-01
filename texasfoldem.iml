@@ -18,7 +18,7 @@
       <configuration />
     </facet>
   </component>
-  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_5">
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_8">
     <output url="file://$MODULE_DIR$/target/classes" />
     <output-test url="file://$MODULE_DIR$/target/test-classes" />
     <content url="file://$MODULE_DIR$">
@@ -38,5 +38,6 @@
     <orderEntry type="library" name="Spring MVC-4.3.8.RELEASE" level="project" />
     <orderEntry type="library" name="Spring Web Services-2.0.2" level="project" />
     <orderEntry type="library" name="Spring Security-3.2.5" level="project" />
+    <orderEntry type="library" name="org.apache.commons:commons-math3:3.6.1" level="project" />
   </component>
 </module>
